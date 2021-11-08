@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature_loading">--</string>
+    <string name="city_name_template">%s, %s</string>
+    <string name="weather_temperature_current_template">%.2f°</string>
+    <string name="weather_temperature_high_template">High: %.2f°</string>
+    <string name="weather_temperature_low_template">Low: %.2f°</string>
+    <string name="weather_query_template">%s,%s,US</string>
+    <string name="weather_update_time_template">Last Updated: %s</string>
+</resources>
